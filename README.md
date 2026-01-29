@@ -15,7 +15,6 @@
       --text:#eef6ff;
       --sub:#9fb6e6;
       --grid:#213a66;
-
       --cyan:#45e1ff;
       --teal:#33f2d3;
       --yellow:#ffd166;
